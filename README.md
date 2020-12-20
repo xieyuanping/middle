@@ -6,7 +6,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
    效果截图：
 
-   ![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE%E4%B8%80.png）
+   [!image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE%E4%B8%80.png）
 
    添加时间戳的位置在主页面的每个列表项中添加，即在notelist_item.xml布局文件中添加一个TextView
 
