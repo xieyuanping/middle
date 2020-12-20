@@ -6,7 +6,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
    效果截图：
 
-   图一
+   ![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE%E4%B8%80.png）
 
    添加时间戳的位置在主页面的每个列表项中添加，即在notelist_item.xml布局文件中添加一个TextView
 
@@ -89,7 +89,10 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
    效果截图：
 
-   图234
+   ![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE2.png）
+   ![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE%E4%B8%89.png）
+   ![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE4.png）
+   
 
    在list_options_menu.xml中新建一个查询的按钮
 
@@ -253,7 +256,9 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
 效果图：
 
-图567
+![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE5.png）
+![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE6.png）
+![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE7.png）
 
 在editor_options_menu.xml中添加
 
@@ -347,7 +352,9 @@ case R.id.font_10:
 
 效果图：
 
-图89 10
+![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE8.png）
+![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE9.png）
+![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE10.png）
 
 数据库表地方添加颜色的字段
 
@@ -641,7 +648,9 @@ public class NoteColor extends Activity {
 
 效果图：
 
-图11 12 13
+![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE11.png）
+![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE12.png）
+![image]（https://github.com/xieyuanping/middle/blob/master/%E5%9B%BE%E7%89%87/%E5%9B%BE13.png）
 
 在文件list_options_menu.xml中添加
 
